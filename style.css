@@ -93,7 +93,7 @@ h1 span {
   background-position: center center;
   display: block;
   position: fixed;
-  bottom: 49.8vh;
+  top: calc(50.2vh - 5rem);
   right: 0;
   z-index: 0;
   width: 100%;
